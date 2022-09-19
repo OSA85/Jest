@@ -1,5 +1,5 @@
-/coverage
-/node_modules
+/coverage/
+/node_modules/
 Thumbs.db*
 .DS_Store
 HELP.md
